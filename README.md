@@ -64,7 +64,7 @@ Download the dataset from Kaggle and place heart.csv in the project root folder 
 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/heart-disease-ml-benchmark.git
+git clone https://github.com/sreyoshmajumder/heart-disease-ml-benchmark.git
 cd heart-disease-ml-benchmark
 
 2. Create and activate a virtual environment (optional but recommended)
